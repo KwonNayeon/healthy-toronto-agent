@@ -42,4 +42,4 @@ python agent.py
 
 ## Inspiration
 
-Inspired by Aurora Li's talk on Agent Development Kit (ADK) at AI Meetup Toronto by AICamp (May 2025).
+Inspired by Aurora Li and Cole Bowden at AI Meetup Toronto by AICamp (May 2025).
