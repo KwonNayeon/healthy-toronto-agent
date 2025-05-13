@@ -8,7 +8,7 @@ healthy-toronto-agent/
 ├── ingest.py           # Create vector DB from CSV
 ├── agent.py            # Q&A agent using LangChain RAG
 ├── data/
-│   └── healthy_toronto_eat.csv  # data
+│   └── healthy_toronto_eat.csv  # Dataset
 ├── db/                 # Chroma vector DB (not in git)
 ├── README.md           # This file
 └── requirements.txt    # Required packages
@@ -42,4 +42,9 @@ python agent.py
 
 ## Inspiration
 
-Inspired by Aurora Li and Cole Bowden at AI Meetup Toronto by AICamp (May 2025).
+Inspired by **Aurora Li** and **Cole Bowden** at AI Meetup Toronto by **AICamp** (May 2025).
+
+---
+
+🗂️ Dataset constructed manually using publicly available restaurant information (e.g., address, category, dietary options). No copyrighted content used.  
+If you believe any information should not be included, please open an issue and it will be promptly reviewed or removed.
