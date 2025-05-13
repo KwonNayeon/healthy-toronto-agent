@@ -46,5 +46,4 @@ Inspired by **Aurora Li** and **Cole Bowden** at AI Meetup Toronto by **AICamp**
 
 ---
 
-🗂️ Dataset constructed manually using publicly available restaurant information (e.g., address, category, dietary options). No copyrighted content used.  
-If you believe any information should not be included, please open an issue and it will be promptly reviewed or removed.
+🗂️ Dataset constructed manually using publicly available restaurant information (e.g., address, category, dietary options). No copyrighted content used.
