@@ -39,3 +39,7 @@ python agent.py
 ```
 
 3. Ask questions about healthy restaurants in Toronto.
+
+## Inspiration
+
+Inspired by Aurora Li's talk on Agent Development Kit (ADK) at AI Meetup Toronto by AICamp (May 2025).
