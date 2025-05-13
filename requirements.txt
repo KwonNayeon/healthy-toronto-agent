@@ -1,0 +1,19 @@
+# Core dependencies
+langchain==0.1.4
+langchain-openai==0.0.5
+openai==1.6.0
+chromadb==0.4.18
+pandas==2.1.0
+
+# Environment and utility
+python-dotenv==1.0.0
+pydantic==2.5.2
+
+# Text processing
+tiktoken==0.5.2  # OpenAI's tokenizer
+sentence-transformers==2.2.2  # For embeddings
+
+# Optional: For more advanced features
+# streamlit==1.28.0  # For web interface
+# matplotlib==3.8.0  # For visualizations
+# numpy==1.24.3  # For numerical operations

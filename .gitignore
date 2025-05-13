@@ -1,0 +1,8 @@
+# Environment variables - contains API keys
+.env
+
+# Vector database files - large and can be regenerated
+db/
+
+# Virtual environment - contains installed packages
+.venv/
