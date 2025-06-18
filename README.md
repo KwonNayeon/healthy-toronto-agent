@@ -1,3 +1,5 @@
+![Healthy Toronto Agent](thumbnail.png)
+
 # Healthy Toronto Agent
 
 Find healthy and affordable food in Toronto - no cooking required.
