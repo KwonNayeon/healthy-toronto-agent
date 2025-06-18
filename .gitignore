@@ -1,8 +1,35 @@
-# Environment variables - contains API keys
+# Environment & Config
 .env
+*.env
 
-# Vector database files - large and can be regenerated
-db/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
 
-# Virtual environment - contains installed packages
+# Virtual environments
 .venv/
+venv/
+env/
+
+# Build & Distribution
+build/
+dist/
+*.egg-info/
+
+# Database & Data
+db/
+*.db
+*.sqlite3
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
