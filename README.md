@@ -38,7 +38,7 @@ healthy-toronto-agent/
 ├── db/                 # Chroma vector DB (not in git)
 ├── assets/             # App demo screenshots
 ├── README.md           # This file
-├── troubleshooting.md  # Common issues and solutions
+├── development-log.md  # Development challenges and learnings
 └── requirements.txt    # Required packages
 ```
 
