@@ -1,4 +1,4 @@
-![Healthy Toronto Agent](thumbnail.png)
+![Healthy Toronto Agent](thumbnail.jpg)
 
 # Healthy Toronto Agent
 
