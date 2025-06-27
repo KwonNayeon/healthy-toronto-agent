@@ -29,9 +29,8 @@ name, address, category, price_range, vegan, vegetarian, gluten_free, grab_and_g
 ```
 **Impact**: Limits chatbot's ability to answer detailed nutrition-focused queries that users naturally ask.
 
-**Future Enhancement**: Need to expand dataset with nutritional details, specific menu items, and detailed ingredient information to make the chatbot truly useful for health-conscious users.
+💡 **Future Enhancement**: Need to expand dataset with nutritional details, specific menu items, and detailed ingredient information to make the chatbot truly useful for health-conscious users.
 
 ## Key Learnings
 1. **Dependency Management**: Complex ML packages require careful version coordination
 2. **Data-Driven Limitations**: RAG systems are only as good as their underlying data quality and completeness
-3. **User Testing Value**: Real user interactions reveal data gaps not apparent during development
