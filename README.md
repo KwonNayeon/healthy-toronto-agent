@@ -1,6 +1,7 @@
 ![Healthy Toronto Agent](assets/thumbnail.jpg)
 
 # Healthy Toronto Agent
+*[한국어](README.ko.md) | English*
 
 Find healthy and affordable food in Toronto - no cooking required.
 
